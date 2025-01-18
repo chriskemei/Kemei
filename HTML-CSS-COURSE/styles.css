@@ -1,0 +1,63 @@
+h1{
+    background-color: rgb(207, 190, 190);
+    padding: 30px;
+    border: 2px;
+    border-radius: 80px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+   background-color: transparent;
+   background-image: url('Images/Baringo-herders.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-size: 100% 100%;
+}
+h3{
+    background-color: transparent;
+    padding: 30px;
+    border: 2px;
+    border-radius: 80px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+p{
+    color: green;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  
+}
+
+
+a:link{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover{
+    color: green;
+    border-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+</body>
+</html>
